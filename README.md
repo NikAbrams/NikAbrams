@@ -10,7 +10,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=Next.js)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![Apollo+GraphQL](https://img.shields.io/badge/-Apollo+GraphQL-090909?style=for-the-badge&logo=Apollo-GraphQL)
-![Strapi CMS](https://img.shields.io/badge/-Strapi-CMS-090909?style=for-the-badge&logo=Strapi)
+![Strapi CMS](https://img.shields.io/badge/-Strapi_CMS-090909?style=for-the-badge&logo=Strapi)
 
 
 
