@@ -16,6 +16,7 @@
 ![Strapi CMS](https://img.shields.io/badge/-CMS_Strapi-090909?style=for-the-badge&logo=Strapi)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-090909?style=for-the-badge&logo=Material-UI)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-090909?style=for-the-badge&logo=Framer)
+![GSAP](https://img.shields.io/badge/-GSAP-090909?style=for-the-badge&logo=GreenSock)
 
 
 
