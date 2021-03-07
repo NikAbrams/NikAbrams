@@ -5,7 +5,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![Bootstrap 4](https://img.shields.io/badge/-Bootstrap_4-090909?style=for-the-badge&logo=Bootstrap)
-![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=WordPress)
+![CMS WordPress](https://img.shields.io/badge/-CMS_WordPress-090909?style=for-the-badge&logo=WordPress)
 ![JQuery](https://img.shields.io/badge/-JQuery-090909?style=for-the-badge&logo=JQuery)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
