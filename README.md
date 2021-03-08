@@ -8,7 +8,6 @@
     Telegram: @MrNikAbrams
     WhatsApp/Viber: +380509045336
     
-    
 
 ### Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
@@ -40,7 +39,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=Adobe-Photoshop)
 
 
-### Here you can find a lot of interesting projects 👇🏻
+#### Here you can find a lot of interesting projects 👇🏻
 
 
 
