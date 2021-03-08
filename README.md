@@ -34,14 +34,10 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=Adobe-Photoshop)
 
 ### Let's create something interesting:
-Mail: mr.nik.prog@gmail.com
-Telegram: [@MrNikAbrams](https://t.me/mrnikabrams)
-WhatsApp/Viber: +380509045336
+* Mail: mr.nik.prog@gmail.com
+* Telegram: [@MrNikAbrams](https://t.me/mrnikabrams)
+* WhatsApp/Viber: +380509045336
     
 
 
 ## Here you can find some of my projects 👇🏻
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
