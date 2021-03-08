@@ -4,8 +4,10 @@
 ### Check my portfolio: [hookit.io](https://hookit.io)
 
 ### Contact me: 
-    #### My telegram: [@MrNikAbrams](https://t.me/mrnikabrams)
-    #### My mail: mr.nik.prog@gmail.com
+    Telegram: [@MrNikAbrams](https://t.me/mrnikabrams)
+    Mail: mr.nik.prog@gmail.com
+    Phone number: +380509045336 (Viber, WhatsApp)
+    
 
 ### Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
