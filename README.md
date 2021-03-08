@@ -1,4 +1,4 @@
-# 👋🏼 Hello, my friend!
+# 👋🏼 Welcome to my github page!
 ## My name is **Nikita** and I'm a *Full-stack developer*/
 
 ### Languages and Technologies
