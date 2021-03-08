@@ -1,5 +1,5 @@
-# Hi, my name is **Nik**! 👋🏼
-## I'm a *Front-end developer*
+# Welcome, my friend! 👋🏼 Glad you're here.
+## My name is **Nik**, I'm a *Front-end developer* and your best friend in programming
 
 ### My portfolio: [hookit.io](https://hookit.io)
     
@@ -32,13 +32,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=Adobe-Photoshop)
 
-### Contact me:
+### Let's create something interesting:
     Mail: mr.nik.prog@gmail.com
     Telegram: @MrNikAbrams
     WhatsApp/Viber: +380509045336
 
 
-## Here you can find a lot of interesting projects 👇🏻
-
-
-
+## Here you can find some of my projects 👇🏻
