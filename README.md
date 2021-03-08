@@ -2,7 +2,7 @@
 
 ## I'm a *Front-end developer* and your best friend in programming
 
-### Check my portfolio: &nbsp [hookit.io](https://hookit.io)
+### Check my portfolio:&nbsp[hookit.io](https://hookit.io)
 
 ### Languages and Technologies:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
