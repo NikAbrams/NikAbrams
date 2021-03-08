@@ -1,10 +1,10 @@
 # Hi, my name is **Nik**! 👋🏼
 
-## I'm a *Front-end developer* and your best friend in programming 😉
+## I'm a *Front-end developer* and your best friend in programming
 
-### Check my portfolio: [hookit.io](https://hookit.io) 🙏
+### Check my portfolio: [hookit.io](https://hookit.io)
 
-### Languages and Technologies 💪:
+### Languages and Technologies:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS/SCSS](https://img.shields.io/badge/-SASS/SCSS-090909?style=for-the-badge&logo=Sass)
