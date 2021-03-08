@@ -1,4 +1,4 @@
-Welcome, my friend! 👋🏼
+# _Welcome, my friend! 👋🏼_
 
 ## My name is **Nik**, I'm a *Front-end developer* and your best friend in programming
 
@@ -41,3 +41,7 @@ WhatsApp/Viber: +380509045336
 
 
 ## Here you can find some of my projects 👇🏻
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
