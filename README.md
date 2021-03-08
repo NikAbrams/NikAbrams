@@ -35,7 +35,7 @@ Welcome, my friend! 👋🏼
 
 ### Let's create something interesting:
 Mail: mr.nik.prog@gmail.com
-Telegram: [@MrNikAbrams](https://t.me/@MrNikAbrams)
+Telegram: [@MrNikAbrams](https://t.me/mrnikabrams)
 WhatsApp/Viber: +380509045336
     
 
