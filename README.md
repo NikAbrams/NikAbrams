@@ -1,11 +1,15 @@
 `<h1>`
-# &nbsp; Welcome, my friend! 👋🏼
+# &nbsp;&nbsp; Welcome, my friend! 👋🏼
 `</h1>`
 
-## My name is **Nik**, I'm a *Front-end developer* and your best friend in programming
+`<h2>`
+## &nbsp;&nbsp; My name is **Nik**, I'm a *Front-end developer* and your best friend in programming
+`<h2>`
 
-### Check my portfolio: [hookit.io](https://hookit.io)
-    
+`<h3>`
+### &nbsp;&nbsp; Check my portfolio: [hookit.io](https://hookit.io)
+`<h4>`
+
 ### Languages and Technologies:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
