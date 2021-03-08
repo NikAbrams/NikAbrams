@@ -4,9 +4,9 @@
 ### Check my portfolio: [hookit.io](https://hookit.io)
 
 ### Contact me:
-Mail: mr.nik.prog@gmail.com
-Telegram: @MrNikAbrams
-WhatsApp/Viber: +380509045336
+    Mail: mr.nik.prog@gmail.com
+    Telegram: @MrNikAbrams
+    WhatsApp/Viber: +380509045336
     
     
 
