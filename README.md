@@ -1,4 +1,4 @@
-# 👋🏼 WELCOME!
+# 👋🏼 Welcome, my friend! 
 ## Here you can find a lot of interesting projects 😉
 
 ### Languages and Technologies
