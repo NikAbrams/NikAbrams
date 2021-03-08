@@ -4,10 +4,10 @@
 ### Check my portfolio: [hookit.io](https://hookit.io)
 
 ### Contact me:
-    Mail: mr.nik.prog@gmail.com
-    [Telegram](https://t.me/mrnikabrams)
-    [WhatsApp](https://wa.me/380509045336)
-    [Viber](viber://chat?number=+380509045336)
+Mail: mr.nik.prog@gmail.com
+[Telegram](https://t.me/mrnikabrams)
+[WhatsApp](https://wa.me/380509045336)
+[Viber](viber://chat?number=+380509045336)
     
     
 
