@@ -1,7 +1,8 @@
-# Welcome, my friend! 👋🏼
+##### <h1> 
+  # Welcome, my friend! 👋🏼
+##### </h1>
+
 ## My name is **Nik**, I'm a *Front-end developer* and your best friend in programming
-
-
 
 ### Check my portfolio: [hookit.io](https://hookit.io)
     
