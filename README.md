@@ -2,8 +2,6 @@
 
 ## I'm a *Front-end developer* and your best friend in programming
 
-### Check my portfolio:  [hookit.io](https://hookit.io)
-
 ### Languages and Technologies:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
@@ -32,6 +30,8 @@
 ![GSAP](https://img.shields.io/badge/-GSAP-090909?style=for-the-badge&logo=GreenSock)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=Adobe-Photoshop)
+
+### Check my portfolio:  [hookit.io](https://hookit.io)
 
 ### Let's create something interesting:
 * Mail: mr.nik.prog@gmail.com
