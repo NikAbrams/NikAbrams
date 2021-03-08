@@ -3,10 +3,10 @@
 
 ### Check my portfolio: [hookit.io](https://hookit.io)
 
-### Contact me: 
-    Telegram: [@MrNikAbrams](https://t.me/mrnikabrams)
+### Contact me:
     Mail: mr.nik.prog@gmail.com
-    Phone number: +380509045336 (Viber, WhatsApp)
+    [Telegram](https://t.me/mrnikabrams) [WhatsApp](https://wa.me/380509045336) [Viber](viber://chat?number=+380509045336)
+    
     
 
 ### Languages and Technologies
