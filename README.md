@@ -1,4 +1,4 @@
-<h1 style="color: red; "> Welcome, my friend! 👋🏼</h1>
+<h1 styles="color: red; "> Welcome, my friend! 👋🏼</h1>
 
 ## My name is **Nik**, I'm a *Front-end developer* and your best friend in programming
 
