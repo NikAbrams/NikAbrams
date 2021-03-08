@@ -1,4 +1,4 @@
-# Hi, my name is **Nik**! 👋🏼 👋🏼 👋🏼 
+# Hi, my name is **Nik**! 👋🏼
 ## I'm a *Front-end developer*
 
 ### My portfolio: [hookit.io](https://hookit.io)
