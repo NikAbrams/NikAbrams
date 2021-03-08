@@ -1,4 +1,4 @@
- Welcome, my friend! 👋🏼
+<h1> Welcome, my friend! 👋🏼</h1>
 
 ## My name is **Nik**, I'm a *Front-end developer* and your best friend in programming
 
