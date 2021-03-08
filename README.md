@@ -34,9 +34,9 @@ Welcome, my friend! 👋🏼
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=Adobe-Photoshop)
 
 ### Let's create something interesting:
-    Mail: mr.nik.prog@gmail.com
-    Telegram: @MrNikAbrams
-    WhatsApp/Viber: +380509045336
+Mail: mr.nik.prog@gmail.com
+Telegram: [@MrNikAbrams](https://t.me/@MrNikAbrams)
+WhatsApp/Viber: +380509045336
     
 
 
