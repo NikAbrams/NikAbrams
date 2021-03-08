@@ -1,5 +1,5 @@
-# 👋🏼 Welcome, my friend! 
-## My name is **Nik**, I'm a *Front-end developer*
+# 👋🏼 Hi, my name is **Nik**! 
+## I'm a *Front-end developer*
 
 ### My portfolio: [hookit.io](https://hookit.io)
     
