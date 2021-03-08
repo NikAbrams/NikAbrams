@@ -1,7 +1,7 @@
 # 👋🏼 Welcome, my friend! 
 ## My name is **Nik**, I'm a *Front-end developer*
 
-### Check my protfolio: [hookit.io](https://hookit.io)
+### Check my portfolio: ![hookit.io](https://hookit.io)
 
 ### Contact me: 
 
