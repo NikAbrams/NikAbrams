@@ -1,6 +1,6 @@
 # Hi, my name is **Nik**! 👋🏼
 
-## I'm a *Front-end developer* and your best friend in programming
+## I'm a *Front-end developer* and your goldfish in programming
 
 ### Languages and Technologies:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
