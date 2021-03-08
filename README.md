@@ -1,15 +1,9 @@
 # 👋🏼 Welcome, my friend! 
 ## My name is **Nik**, I'm a *Front-end developer*
 
-### Check my portfolio: [hookit.io](https://hookit.io)
-
-### Contact me:
-    Mail: mr.nik.prog@gmail.com
-    Telegram: @MrNikAbrams
-    WhatsApp/Viber: +380509045336
+### My portfolio: [hookit.io](https://hookit.io)
     
-
-### Languages and Technologies
+### My skills
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS/SCSS](https://img.shields.io/badge/-SASS/SCSS-090909?style=for-the-badge&logo=Sass)
@@ -37,6 +31,11 @@
 ![GSAP](https://img.shields.io/badge/-GSAP-090909?style=for-the-badge&logo=GreenSock)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=Adobe-Photoshop)
+
+### Contact me:
+    Mail: mr.nik.prog@gmail.com
+    Telegram: @MrNikAbrams
+    WhatsApp/Viber: +380509045336
 
 
 ## Here you can find a lot of interesting projects 👇🏻
