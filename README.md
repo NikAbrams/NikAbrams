@@ -4,7 +4,8 @@
 ### Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![SASS/SCSS](https://img.shields.io/badge/-SASS/SCSS-090909?style=for-the-badge&logo=sass)
+![SASS/SCSS](https://img.shields.io/badge/-SASS/SCSS-090909?style=for-the-badge&logo=Sass)
+![LESS](https://img.shields.io/badge/-LESS-090909?style=for-the-badge&logo=Less)
 ![Bootstrap 4](https://img.shields.io/badge/-Bootstrap_4-090909?style=for-the-badge&logo=Bootstrap)
 ![CMS WordPress](https://img.shields.io/badge/-CMS_WordPress-090909?style=for-the-badge&logo=WordPress)
 ![JQuery](https://img.shields.io/badge/-JQuery-090909?style=for-the-badge&logo=JQuery)
