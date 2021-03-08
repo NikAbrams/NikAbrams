@@ -1,5 +1,5 @@
-# 👋🏼 Welcome to my github page!
-## My name is **Nikita** and I'm a *Full-stack developer*/
+# 👋🏼 WELCOME!
+## Here you can find a lot of interesting projects 😉
 
 ### Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
