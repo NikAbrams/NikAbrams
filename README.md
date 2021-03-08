@@ -1,6 +1,12 @@
 # 👋🏼 Welcome, my friend! 
 ## My name is **Nik**, I'm a *Front-end developer*
 
+### Check my protfolio: [hookit.io](https://hookit.io)
+
+### Contact me: ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+
 ### Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
