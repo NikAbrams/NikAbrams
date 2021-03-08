@@ -1,14 +1,8 @@
-`<h1>`
-# &nbsp;&nbsp; Welcome, my friend! 👋🏼
-`</h1>`
+# Welcome, my friend! 👋🏼
 
-`<h2>`
-## &nbsp;&nbsp; My name is **Nik**, I'm a *Front-end developer* and your best friend in programming
-`<h2>`
+## My name is **Nik**, I'm a *Front-end developer* and your best friend in programming
 
-`<h3>`
-### &nbsp;&nbsp; Check my portfolio: [hookit.io](https://hookit.io)
-`<h4>`
+### Check my portfolio: [hookit.io](https://hookit.io)
 
 ### Languages and Technologies:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
