@@ -1,4 +1,4 @@
-# Welcome, my friend! 👋🏼
+ Welcome, my friend! 👋🏼
 
 ## My name is **Nik**, I'm a *Front-end developer* and your best friend in programming
 
