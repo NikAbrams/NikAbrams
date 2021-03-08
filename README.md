@@ -3,7 +3,7 @@
 
 ### My portfolio: [hookit.io](https://hookit.io)
     
-### My skills
+### My skills:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS/SCSS](https://img.shields.io/badge/-SASS/SCSS-090909?style=for-the-badge&logo=Sass)
