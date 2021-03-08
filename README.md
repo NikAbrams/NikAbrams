@@ -1,6 +1,8 @@
 # Welcome, my friend! 👋🏼
 ## My name is **Nik**, I'm a *Front-end developer* and your best friend in programming
 
+
+
 ### Check my portfolio: [hookit.io](https://hookit.io)
     
 ### Languages and Technologies:
@@ -36,6 +38,7 @@
     Mail: mr.nik.prog@gmail.com
     Telegram: @MrNikAbrams
     WhatsApp/Viber: +380509045336
+    
 
 
 ## Here you can find some of my projects 👇🏻
